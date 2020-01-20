@@ -1,4 +1,4 @@
-print(*"***************STOK KONTROL ***************")
+print(*"***************Stock Control ***************")
 #Elimizde Kaç (BİN)TL Lik Ürün Var
 
 c=print("""Ürünler:
